@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## A demo page for showing how to use QGIS 2 WEB
 
 You can use the [editor on GitHub](https://github.com/leoouma/Buliti-webmap/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
